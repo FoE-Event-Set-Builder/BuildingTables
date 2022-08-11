@@ -1,0 +1,1704 @@
+{
+    "sets": {
+            "cherry5x5": {
+                "name": "Cherry Set: \"Standard\" Attack",
+                "size": "25 (5x5)",
+                "tiles": 25,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Lv2 Sakura Rock",
+                        "id": "D_MultiAge_SpringBonusSet18b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Gong of Wisdom",
+                        "id": "L_AllAge_SpringBonusSet17",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Emperor's Entrance",
+                        "id": "R_MultiAge_SpringBonusSet17b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Zen Zone",
+                        "id": "R_MultiAge_SpringBonusSet17a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "cherry12x13": {
+                "name": "Cherry Set: \"Standard\" Attack Extended",
+                "size": "147 (12x13)",
+                "tiles": 147,
+                "pieces": 47,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Lv2 Sakura Rock",
+                        "id": "D_MultiAge_SpringBonusSet18b",
+                        "amount": 15,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Gong of Wisdom",
+                        "id": "L_AllAge_SpringBonusSet17",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Gong of Wisdom",
+                        "id": "L_AllAge_SpringBonusSet17",
+                        "amount": 5,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Emperor's Entrance",
+                        "id": "R_MultiAge_SpringBonusSet17b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Zen Zone",
+                        "id": "R_MultiAge_SpringBonusSet17a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "cherry12x8": {
+                "name": "Cherry Set: \"Pond\" Attack",
+                "size": "82 (12x8)",
+                "tiles": 82,
+                "pieces": 25,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Lv2 Sakura Rock",
+                        "id": "D_MultiAge_SpringBonusSet18b",
+                        "amount": 8,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Gong of Wisdom",
+                        "id": "L_AllAge_SpringBonusSet17",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Emperor's Entrance",
+                        "id": "R_MultiAge_SpringBonusSet17b",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Emperor's Entrance",
+                        "id": "R_MultiAge_SpringBonusSet17b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Zen Zone",
+                        "id": "R_MultiAge_SpringBonusSet17a",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Zen Zone",
+                        "id": "R_MultiAge_SpringBonusSet17a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Nishikigoi Pond",
+                        "id": "D_MultiAge_SpringBonusSet17a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "cherry12x14": {
+                "name": "Cherry Set: \"Pond\" Attack Extended",
+                "size": "152 (12x14)",
+                "tiles": 152,
+                "pieces": 48,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Lv2 Sakura Rock",
+                        "id": "D_MultiAge_SpringBonusSet18b",
+                        "amount": 16,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Gong of Wisdom",
+                        "id": "L_AllAge_SpringBonusSet17",
+                        "amount": 8,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Emperor's Entrance",
+                        "id": "R_MultiAge_SpringBonusSet17b",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Emperor's Entrance",
+                        "id": "R_MultiAge_SpringBonusSet17b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Zen Zone",
+                        "id": "R_MultiAge_SpringBonusSet17a",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Zen Zone",
+                        "id": "R_MultiAge_SpringBonusSet17a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Lv1 Nishikigoi Pond",
+                        "id": "D_MultiAge_SpringBonusSet17a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "fall7def": {
+                "name": "Fall Set: \"Basic\" Defense",
+                "size": "31 (5x7)",
+                "tiles": 31,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Ochre Yard",
+                        "id": "D_MultiAge_FallBonus20b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "fall7atk": {
+                "name": "Fall Set: \"Basic\" Attack",
+                "size": "35 (7x7)",
+                "tiles": 35,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Ochre Yard",
+                        "id": "D_MultiAge_FallBonus20b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "fall8atk": {
+                "name": "Fall Set: \"Basic\" Attack + FP/Goods",
+                "size": "38 (7x6)",
+                "tiles": 38,
+                "pieces": 8,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Ochre Yard",
+                        "id": "D_MultiAge_FallBonus20b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Autumn Scarecrow",
+                        "id": "L_AllAge_FallBonus20b",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "fall13atk": {
+                "name": "Fall Set: \"Basic\" Attack Stacked",
+                "size": "66 (7x12)",
+                "tiles": 66,
+                "pieces": 13,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 8,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Ochre Yard",
+                        "id": "D_MultiAge_FallBonus20b",
+                        "amount": 3,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "fall5fp": {
+                "name": "Fall Set: \"Basic\" FPs",
+                "size": "21 (3x7)",
+                "tiles": 21,
+                "pieces": 5,
+                "roads": 1.5,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sunflower Patch",
+                        "id": "R_MultiAge_FallBonus20e",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": true
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Autumn Scarecrow",
+                        "id": "L_AllAge_FallBonus20b",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "fall9fp": {
+                "name": "Fall Set: \"Extended\" FPs",
+                "size": "36 (3x12)",
+                "tiles": 36,
+                "pieces": 9,
+                "roads": 3,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sunflower Patch",
+                        "id": "R_MultiAge_FallBonus20e",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": true
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Autumn Scarecrow",
+                        "id": "L_AllAge_FallBonus20b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "fall5goods": {
+                "name": "Fall Set: \"Basic\" Goods",
+                "size": "21 (3x7)",
+                "tiles": 21,
+                "pieces": 5,
+                "roads": 1.5,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sunflower Patch",
+                        "id": "R_MultiAge_FallBonus20e",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": true
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Autumn Scarecrow",
+                        "id": "L_AllAge_FallBonus20b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "fall9goods": {
+                "name": "Fall Set: \"Extended\" Goods",
+                "size": "36 (3x12)",
+                "tiles": 36,
+                "pieces": 9,
+                "roads": 3,
+                "buildings": [
+                    {
+                        "name": "Wheat Field",
+                        "id": "D_MultiAge_FallBonus20a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sunflower Patch",
+                        "id": "R_MultiAge_FallBonus20e",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": true
+                    },
+                    {
+                        "name": "Begonia Bench",
+                        "id": "L_AllAge_FallBonus20a",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Autumn Scarecrow",
+                        "id": "L_AllAge_FallBonus20b",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "celtic29atk": {
+                "name": "Celtic Forest Set: \"Eye\"",
+                "size": "49 (7x8)",
+                "tiles": 49,
+                "pieces": 29,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Druid Willow Lv2",
+                        "id": "A_MultiAge_PatrickBonusSet20b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Standing Stone Lv1",
+                        "id": "D_MultiAge_PatrickBonusSet20a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 8,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Faery Rings Lv1",
+                        "id": "R_MultiAge_PatrickBonusSet20c",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "celtic53atk": {
+                "name": "Celtic Forest Set: \"Eye\" Extended",
+                "size": "84 (7x13)",
+                "tiles": 84,
+                "pieces": 53,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Druid Willow Lv2",
+                        "id": "A_MultiAge_PatrickBonusSet20b",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Standing Stone Lv1",
+                        "id": "D_MultiAge_PatrickBonusSet20a",
+                        "amount": 7,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 16,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Faery Rings Lv1",
+                        "id": "R_MultiAge_PatrickBonusSet20c",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "celtic37atk": {
+                "name": "Celtic Forest Set: \"Eye\" + FPs",
+                "size": "53 (7x8)",
+                "tiles": 53,
+                "pieces": 37,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Druid Willow Lv2",
+                        "id": "A_MultiAge_PatrickBonusSet20b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Standing Stone Lv1",
+                        "id": "D_MultiAge_PatrickBonusSet20a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 8,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Faery Rings Lv1",
+                        "id": "R_MultiAge_PatrickBonusSet20c",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "celtic61atk": {
+                "name": "Celtic Forest Set: \"Eye\" Extended + FPs",
+                "size": "88 (7x8)",
+                "tiles": 88,
+                "pieces": 61,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Druid Willow Lv2",
+                        "id": "A_MultiAge_PatrickBonusSet20b",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Standing Stone Lv1",
+                        "id": "D_MultiAge_PatrickBonusSet20a",
+                        "amount": 7,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 16,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Faery Rings Lv1",
+                        "id": "R_MultiAge_PatrickBonusSet20c",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "celtic13def": {
+                "name": "Celtic Forest Set: \"Basic\" Defense",
+                "size": "28 (5x8)",
+                "tiles": 28,
+                "pieces": 13,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Druid Willow Lv2",
+                        "id": "A_MultiAge_PatrickBonusSet20b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Standing Stone Lv1",
+                        "id": "D_MultiAge_PatrickBonusSet20a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "celtic30def": {
+                "name": "Celtic Forest Set: \"Extended\" Defense",
+                "size": "60 (8x8)",
+                "tiles": 60,
+                "pieces": 30,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Druid Willow Lv2",
+                        "id": "A_MultiAge_PatrickBonusSet20b",
+                        "amount": 8,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Standing Stone Lv1",
+                        "id": "D_MultiAge_PatrickBonusSet20a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Stag (lv2)",
+                        "id": "L_AllAge_PatrickBonusSet20b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Majestic Fawn (lv1)",
+                        "id": "L_AllAge_PatrickBonusSet20a",
+                        "amount": 4,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "piazza21fps": {
+                "name": "Piazza Set: \"Basic\" FPs",
+                "size": "46 (6x9)",
+                "tiles": 46,
+                "pieces": 21,
+                "roads": 8,
+                "buildings": [
+                    {
+                        "name": "Clock Tower Lv2",
+                        "id": "A_MultiAge_CarnivalBonus19b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": true
+                    },
+                    {
+                        "name": "Homes Lv2",
+                        "id": "R_MultiAge_CarnivalBonus19b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": true
+                    },
+                    {
+                        "name": "Cafe Lv2",
+                        "id": "R_MultiAge_CarnivalBonus19d",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": true
+                    },
+                    {
+                        "name": "Fountain Lv1",
+                        "id": "D_MultiAge_CarnivalBonus19b",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Mask Vendor Lv2",
+                        "id": "L_AllAge_CarnivalBonus19b",
+                        "amount": 2,
+                        "bonuses": 4,
+                        "road": false
+                    },
+                    {
+                        "name": "Mask Vendor Lv2",
+                        "id": "L_AllAge_CarnivalBonus19b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "piazza38fps": {
+                "name": "Piazza Set: \"Basic\" FPs Extended",
+                "size": "80 (6x14)",
+                "tiles": 80,
+                "pieces": 38,
+                "roads": 14,
+                "buildings": [
+                    {
+                        "name": "Clock Tower Lv2",
+                        "id": "A_MultiAge_CarnivalBonus19b",
+                        "amount": 3,
+                        "bonuses": 3,
+                        "road": true
+                    },
+                    {
+                        "name": "Homes Lv2",
+                        "id": "R_MultiAge_CarnivalBonus19b",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": true
+                    },
+                    {
+                        "name": "Cafe Lv2",
+                        "id": "R_MultiAge_CarnivalBonus19d",
+                        "amount": 3,
+                        "bonuses": 3,
+                        "road": true
+                    },
+                    {
+                        "name": "Fountain Lv1",
+                        "id": "D_MultiAge_CarnivalBonus19b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Mask Vendor Lv2",
+                        "id": "L_AllAge_CarnivalBonus19b",
+                        "amount": 4,
+                        "bonuses": 4,
+                        "road": false
+                    },
+                    {
+                        "name": "Mask Vendor Lv2",
+                        "id": "L_AllAge_CarnivalBonus19b",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "piazza5x5": {
+                "name": "Piazza Set: \"Standard\" Attack",
+                "size": "25 (5x5)",
+                "tiles": 25,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Clock Tower Lv2",
+                        "id": "A_MultiAge_CarnivalBonus19b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Homes Lv1",
+                        "id": "R_MultiAge_CarnivalBonus19a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Fountain Lv1",
+                        "id": "D_MultiAge_CarnivalBonus19b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Mask Vendor Lv1",
+                        "id": "L_AllAge_CarnivalBonus19a",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "piazza13x12": {
+                "name": "Piazza Set: \"Standard\" Attack Extended",
+                "size": "147 (13x12)",
+                "tiles": 147,
+                "pieces": 47,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Clock Tower Lv2",
+                        "id": "A_MultiAge_CarnivalBonus19b",
+                        "amount": 15,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Homes Lv1",
+                        "id": "R_MultiAge_CarnivalBonus19a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Fountain Lv1",
+                        "id": "D_MultiAge_CarnivalBonus19b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Mask Vendor Lv1",
+                        "id": "L_AllAge_CarnivalBonus19a",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Mask Vendor Lv1",
+                        "id": "L_AllAge_CarnivalBonus19a",
+                        "amount": 5,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "wvillage9atk": {
+                "name": "Winter Village: \"Simple\" Attack",
+                "size": "14 (6x3)",
+                "tiles": 14,
+                "pieces": 9,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Halmbock",
+                        "id": "D_MultiAge_WinterBonusSet17a",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Tinkerer's Tent",
+                        "id": "D_MultiAge_WinterBonusSet17c",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Madam Fortuna's Tent",
+                        "id": "L_AllAge_WinterBonusSet17a",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Straw Star Tent",
+                        "id": "L_AllAge_WinterBonusSet17b",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "wvillageChain1": {
+                "name": "Winter Village: Attack \"Chain\" Base",
+                "size": "16 (5x4)",
+                "tiles": 16,
+                "pieces": 10,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Halmbock",
+                        "id": "D_MultiAge_WinterBonusSet17a",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Smörgåsbord",
+                        "id": "D_MultiAge_WinterBonusSet17b",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Candlemaker's",
+                        "id": "D_MultiAge_WinterBonusSet17d",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Madam Fortuna's Tent",
+                        "id": "L_AllAge_WinterBonusSet17a",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Straw Star Tent",
+                        "id": "L_AllAge_WinterBonusSet17b",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "wvillageChain2": {
+                "name": "Winter Village: Attack \"Chain\" 2 Modules",
+                "size": "28 (8x4)",
+                "tiles": 28,
+                "pieces": 17,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Halmbock",
+                        "id": "D_MultiAge_WinterBonusSet17a",
+                        "amount": 8,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Smörgåsbord",
+                        "id": "D_MultiAge_WinterBonusSet17b",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Candlemaker's",
+                        "id": "D_MultiAge_WinterBonusSet17d",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Madam Fortuna's Tent",
+                        "id": "L_AllAge_WinterBonusSet17a",
+                        "amount": 3,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Straw Star Tent",
+                        "id": "L_AllAge_WinterBonusSet17b",
+                        "amount": 3,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "wvillageChain4": {
+                "name": "Winter Village: Attack \"Chain\" 4 Modules",
+                "size": "52 (14x4)",
+                "tiles": 52,
+                "pieces": 31,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Halmbock",
+                        "id": "D_MultiAge_WinterBonusSet17a",
+                        "amount": 16,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Smörgåsbord",
+                        "id": "D_MultiAge_WinterBonusSet17b",
+                        "amount": 3,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Candlemaker's",
+                        "id": "D_MultiAge_WinterBonusSet17d",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Madam Fortuna's Tent",
+                        "id": "L_AllAge_WinterBonusSet17a",
+                        "amount": 5,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Straw Star Tent",
+                        "id": "L_AllAge_WinterBonusSet17b",
+                        "amount": 5,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "wvillageChain8": {
+                "name": "Winter Village: Attack \"Chain\" 8 Modules",
+                "size": "100 (26x4)",
+                "tiles": 100,
+                "pieces": 59,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Halmbock",
+                        "id": "D_MultiAge_WinterBonusSet17a",
+                        "amount": 32,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Smörgåsbord",
+                        "id": "D_MultiAge_WinterBonusSet17b",
+                        "amount": 5,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Candlemaker's",
+                        "id": "D_MultiAge_WinterBonusSet17d",
+                        "amount": 4,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Madam Fortuna's Tent",
+                        "id": "L_AllAge_WinterBonusSet17a",
+                        "amount": 9,
+                        "bonuses": 1,
+                        "road": false
+                    },
+                    {
+                        "name": "Straw Star Tent",
+                        "id": "L_AllAge_WinterBonusSet17b",
+                        "amount": 9,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyNewSmall": {
+                "name": "Butterfly Set: \"New\" Atk/Def Small",
+                "size": "32 (6x6)",
+                "tiles": 32,
+                "pieces": 6,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Marigold Patch",
+                        "id": "D_MultiAge_ArcheologyBonus22c",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Snapdragon Bloom",
+                        "id": "D_MultiAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyNewBig": {
+                "name": "Butterfly Set: \"New\" Atk/Def Big",
+                "size": "60 (6x10)",
+                "tiles": 60,
+                "pieces": 12,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Marigold Patch",
+                        "id": "D_MultiAge_ArcheologyBonus22c",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Snapdragon Bloom",
+                        "id": "D_MultiAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyNewAttackBig": {
+                "name": "Butterfly Set: \"New\" Attack Big",
+                "size": "56 (6x10)",
+                "tiles": 56,
+                "pieces": 10,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Marigold Patch",
+                        "id": "D_MultiAge_ArcheologyBonus22c",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Snapdragon Bloom",
+                        "id": "D_MultiAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyNewDefenseBig": {
+                "name": "Butterfly Set: \"New\" Defense Big",
+                "size": "48 (8x7)",
+                "tiles": 48,
+                "pieces": 10,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Marigold Patch",
+                        "id": "D_MultiAge_ArcheologyBonus22c",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Snapdragon Bloom",
+                        "id": "D_MultiAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyFallAttack": {
+                "name": "Butterfly Set: \"Fall\" Attack",
+                "size": "35 (7x7)",
+                "tiles": 35,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyFallDefense": {
+                "name": "Butterfly Set: \"Fall\" Defense",
+                "size": "31 (7x5)",
+                "tiles": 31,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyFallAttackBig": {
+                "name": "Butterfly Set: \"Fall\" Attack Stacked",
+                "size": "66 (12x7)",
+                "tiles": 66,
+                "pieces": 13,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 8,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 3,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyFallDefenseBig": {
+                "name": "Butterfly Set: \"Fall\" Defense Stacked",
+                "size": "56 (12x5)",
+                "tiles": 56,
+                "pieces": 13,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 3,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 8,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflySmallFPs": {
+                "name": "Butterfly Set: \"Small\" FPs",
+                "size": "22 (8x3)",
+                "tiles": 22,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Magenta Arch",
+                        "id": "L_AllAge_ArcheologyBonus22b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyOptimalFPs": {
+                "name": "Butterfly Set: \"Optimal\" FPs",
+                "size": "31 (8x5)",
+                "tiles": 31,
+                "pieces": 10,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Magenta Arch",
+                        "id": "L_AllAge_ArcheologyBonus22b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Magenta Arch",
+                        "id": "L_AllAge_ArcheologyBonus22b",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyWildflowerFPs": {
+                "name": "Butterfly Set: \"Wildflower\" FPs",
+                "size": "36 (8x5)",
+                "tiles": 36,
+                "pieces": 11,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Magenta Arch",
+                        "id": "L_AllAge_ArcheologyBonus22b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflySmallGoods": {
+                "name": "Butterfly Set: \"Small\" Goods",
+                "size": "22 (8x3)",
+                "tiles": 22,
+                "pieces": 7,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Magenta Arch",
+                        "id": "L_AllAge_ArcheologyBonus22b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyOptimalGoodsFixed": {
+                "name": "Butterfly Set: \"Optimal\" Goods",
+                "size": "31 (8x5)",
+                "tiles": 31,
+                "pieces": 10,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Daylily Flowerbed",
+                        "id": "D_MultiAge_ArcheologyBonus22b",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Magenta Arch",
+                        "id": "L_AllAge_ArcheologyBonus22b",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "butterflyWildflowerGoods": {
+                "name": "Butterfly Set: \"Wildflower\" Goods",
+                "size": "36 (8x5)",
+                "tiles": 36,
+                "pieces": 11,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Wildflower Meadow",
+                        "id": "A_MultiAge_ArcheologyBonus22a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Sapphire Arch",
+                        "id": "L_AllAge_ArcheologyBonus22a",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Magenta Arch",
+                        "id": "L_AllAge_ArcheologyBonus22b",
+                        "amount": 6,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "horrorSmallFPs": {
+                "name": "Horror Circus Set: \"Small\" FPs",
+                "size": "20 (8x3)",
+                "tiles": 20,
+                "pieces": 11,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Terror Teacup Lv1",
+                        "id": "A_MultiAge_HalloweenBonusSet21a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Wheel of Death Lv2",
+                        "id": "L_AllAge_HalloweenBonusSet21b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Mystical Organ Lv1",
+                        "id": "D_MultiAge_HalloweenBonusSet21a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            },
+            "horrorBigFPs": {
+                "name": "Horror Circus Set: \"Extended\" FPs",
+                "size": "34 (8x7)",
+                "tiles": 34,
+                "pieces": 21,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Terror Teacup Lv1",
+                        "id": "A_MultiAge_HalloweenBonusSet21a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Wheel of Death Lv2",
+                        "id": "L_AllAge_HalloweenBonusSet21b",
+                        "amount": 8,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Mystical Organ Lv1",
+                        "id": "D_MultiAge_HalloweenBonusSet21a",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Mystical Organ Lv1",
+                        "id": "D_MultiAge_HalloweenBonusSet21a",
+                        "amount": 2,
+                        "bonuses": 1,
+                        "road": false
+                    }
+                ]
+            },
+            "horrorSmallMix": {
+                "name": "Horror Circus Set: Small \"Mix\"",
+                "size": "25 (6x5)",
+                "tiles": 25,
+                "pieces": 12,
+                "roads": 2,
+                "buildings": [
+                    {
+                        "name": "Terror Teacup Lv2",
+                        "id": "A_MultiAge_HalloweenBonusSet21b",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Wheel of Death Lv2",
+                        "id": "L_AllAge_HalloweenBonusSet21b",
+                        "amount": 2,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Mystical Organ Lv2",
+                        "id": "D_MultiAge_HalloweenBonusSet21b",
+                        "amount": 2,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Helter Skelter Lv2",
+                        "id": "R_MultiAge_HalloweenBonusSet21b",
+                        "amount": 1,
+                        "bonuses": 3,
+                        "road": true
+                    }
+                ]
+            },
+            "horrorBigMix": {
+                "name": "Horror Circus Set: Extended \"Mix\"",
+                "size": "53 (11x7)",
+                "tiles": 53,
+                "pieces": 25,
+                "roads": 0,
+                "buildings": [
+                    {
+                        "name": "Terror Teacup Lv2",
+                        "id": "A_MultiAge_HalloweenBonusSet21b",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Wheel of Death Lv2",
+                        "id": "L_AllAge_HalloweenBonusSet21b",
+                        "amount": 4,
+                        "bonuses": 2,
+                        "road": false
+                    },
+                    {
+                        "name": "Mystical Organ Lv2",
+                        "id": "D_MultiAge_HalloweenBonusSet21b",
+                        "amount": 4,
+                        "bonuses": 3,
+                        "road": false
+                    },
+                    {
+                        "name": "Helter Skelter Lv1",
+                        "id": "R_MultiAge_HalloweenBonusSet21a",
+                        "amount": 1,
+                        "bonuses": 2,
+                        "road": false
+                    }
+                ]
+            }
+    }
+}
